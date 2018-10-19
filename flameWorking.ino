@@ -1,3 +1,11 @@
+/* connect your hardware such that
+
+ARDUINO -FLMAE SENSOR
+ GND    - GND
+ D2- DIGITAL PIN
+ +- 5V
+ */
+
 
 int Buzzer = 13; // Use buzzer for alert 
 int FlamePin = 2; // This is for input pin
